@@ -13,7 +13,6 @@ set -ouex pipefail
 dnf5 upgrade -y
 # this installs a package from fedora repos
 dnf5 install -y tmux 
-dnf5 install -y 
 
 # Use a COPR Example:
 #

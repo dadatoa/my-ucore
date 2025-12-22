@@ -1,2 +1,2 @@
 #+title:README
-[[https://github.com/dadatoa/my-ucore/actions/workflows/build.yml/badge.svg][https://github.com/dadatoa/my-ucore/actions/workflows/build.yml]]
+[[https://github.com/dadatoa/my-ucore/actions/workflows/build.yml][file:https://github.com/dadatoa/my-ucore/actions/workflows/build.yml/badge.svg]]
